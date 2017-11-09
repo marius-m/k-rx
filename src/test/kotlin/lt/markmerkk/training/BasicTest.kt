@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit
  * @author mariusmerkevicius
  * @since 2017-11-09
  */
-class MainTest {
+class BasicTest {
 
     @Test
     fun just_1() {
